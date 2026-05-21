@@ -14,3 +14,6 @@ Abra o arquivo index.html no navegador.
 5. Aguardar revisao do code owner.
 6. Fazer ajustes se necessario.
 7. Fazer merge somente apos aprovacao.
+## Integrantes 
+- Pedro Henrique Levandoski Ruths
+- Gustavo Vinicius de Oliveira
